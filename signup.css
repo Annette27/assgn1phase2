@@ -117,4 +117,6 @@ form .containerSignUp .mb-2 .field1 input:focus{
   #text1.strong{
     color: #23ad5c;
   }
-  
+  .form-label{
+    size: .1em;
+  }
